@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  checked_in: MyString
+  checked_out: MyString
+  notes: MyText
+  book: one
+
+two:
+  checked_in: MyString
+  checked_out: MyString
+  notes: MyText
+  book: two
